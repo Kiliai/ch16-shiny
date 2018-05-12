@@ -1,4 +1,4 @@
-# ui.R
+# ui.R # non solution 
 library(shiny)
 library(plotly)
 shinyUI(navbarPage(
@@ -6,7 +6,7 @@ shinyUI(navbarPage(
   # Create a tab panel for your map
   tabPanel(
     "Map",
-    titlePanel("Electoral College Votes"),
+    titlePanel("Electoral College Vo tes"),
     # Create sidebar layout
     sidebarLayout(
 
